@@ -1,7 +1,12 @@
-# C programming Note Codes
+# C Programming Note Codes
 <br>
-Credits - Sanjay sir
 
-Use case:
+Use Case:
 - Revision
 - Quick reference
+
+
+
+<br>
+
+Credits — Sanjay Sir
