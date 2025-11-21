@@ -7,3 +7,11 @@ main ()
     printf("\n Sum = %d",sum);
     return 0;
 }
+
+/*
+
+Output:
+
+Sum = 12
+
+*/
